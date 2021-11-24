@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/mbamber/go-publicecr.svg)](https://pkg.go.dev/github.com/mbamber/go-publicecr)
+
 # go-publicecr
 
 `go-publicecr` is a module for listing ECR image tags on a public ECR repository.
